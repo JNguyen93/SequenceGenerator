@@ -1,7 +1,6 @@
 # SequenceGenerator
 Solution to a Programming Exercise.
 
-Programming Exercise
 There is a sequence of numbers that can be generated from a starting positive integer, n by:
 
 If n is 1 then the sequence ends.
